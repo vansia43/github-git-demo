@@ -48,7 +48,7 @@ To get started with using Git and GitHub, you will need to install a few prerequ
 
 # Create a Personal Access Token
 
- 1. From the upper-left corner of your GitHub account, click your user icon and select **Settings**.
+ 1. From the upper-right corner of your GitHub account, click your user icon and select **Settings**.
  1. Scroll down, and on the left, click **<> Developer settings**.
  1. From the left menu, select **Personal access tokens**.
  1. Click **Generate new token**.
