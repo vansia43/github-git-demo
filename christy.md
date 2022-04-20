@@ -1,8 +1,4 @@
-2 adding christy
-3 umberger
-
 # Add
-Add something to this line.
+My first use of git! I can do this, yo. 
 
 # Delete
-Delete this line.
